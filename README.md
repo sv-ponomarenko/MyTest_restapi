@@ -3,7 +3,7 @@ REST API for key-value storage
 
 QUICK START
 ----------------
-"MyTest_restapi" comes with a tool called "manage" that can create a simple interface for you to start with.
+"mytest_restapi" comes with a tool called "manage" that can create a simple interface for you to start with.
 
 On command line, type in the following commands:
 	

@@ -1,4 +1,4 @@
-# MyTest_restapi
+# mytest_restapi
 REST API for key-value storage
 
 QUICK START
